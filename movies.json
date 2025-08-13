@@ -1,0 +1,338 @@
+[
+    {
+        "title": "Casablanca",
+        "year": 1942,
+        "emojis": [
+            "🇲🇦",
+            "🍸",
+            "✈️",
+            "❤️",
+            "🎹"
+        ],
+        "hint": "In a smoky café far from home, love and sacrifice meet under foreign skies.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Citizen Kane",
+        "year": 1941,
+        "emojis": [
+            "📰",
+            "🏰",
+            "❄️",
+            "🛷",
+            "💰"
+        ],
+        "hint": "A man’s final word sparks a search through the shadows of wealth and memory.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "The Godfather",
+        "year": 1972,
+        "emojis": [
+            "🍝",
+            "🎩",
+            "🔫",
+            "💵",
+            "🌹"
+        ],
+        "hint": "Power, loyalty, and family ties weave a deadly offer that cannot be refused.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "12 Angry Men",
+        "year": 1957,
+        "emojis": [
+            "⚖️",
+            "👨‍⚖️",
+            "😡",
+            "🗣️",
+            "🗳️"
+        ],
+        "hint": "A single voice dares to sway eleven others in a room thick with judgment.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "City Lights",
+        "year": 1931,
+        "emojis": [
+            "🎩",
+            "🤡",
+            "🌆",
+            "🌹",
+            "👩‍🦯"
+        ],
+        "hint": "A small tramp finds love in a big city, despite life’s comic stumbles.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Rear Window",
+        "year": 1954,
+        "emojis": [
+            "🏠",
+            "🪟",
+            "📷",
+            "🕵️‍♂️",
+            "🔍"
+        ],
+        "hint": "From one room, a lens reveals secrets across the courtyard—some better left unseen.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Metropolis",
+        "year": 1927,
+        "emojis": [
+            "🏙️",
+            "🤖",
+            "⚙️",
+            "💡",
+            "👥"
+        ],
+        "hint": "Above and below, a city’s heart beats as machines and people clash in steel shadows.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Psycho",
+        "year": 1960,
+        "emojis": [
+            "🚿",
+            "🔪",
+            "🏚️",
+            "😱",
+            "🕵️‍♂️"
+        ],
+        "hint": "A quiet roadside inn hides a chilling secret behind its thin, dripping walls.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": 1946,
+        "emojis": [
+            "🎄",
+            "👼",
+            "💍",
+            "🏠",
+            "🌟"
+        ],
+        "hint": "A man sees his world anew when shown the lives he’s quietly shaped.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Seven Samurai",
+        "year": 1954,
+        "emojis": [
+            "⚔️",
+            "🛡️",
+            "🌾",
+            "🏯",
+            "☔"
+        ],
+        "hint": "Seven warriors unite to shield a humble village from the gathering storm.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": 1939,
+        "emojis": [
+            "🌪️",
+            "👠",
+            "🦁",
+            "🧙‍♀️",
+            "🌈"
+        ],
+        "hint": "A whirlwind adventure brings friends together on a road paved with golden dreams.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": 1952,
+        "emojis": [
+            "🎤",
+            "☔",
+            "💃",
+            "🎬",
+            "🎭"
+        ],
+        "hint": "Under stormy skies, joy and music light up a changing world of film.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Vertigo",
+        "year": 1958,
+        "emojis": [
+            "🌀",
+            "🕵️‍♂️",
+            "🏙️",
+            "🌉",
+            "💔"
+        ],
+        "hint": "A dizzying chase for truth spins into love, obsession, and illusion.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "The Godfather: Part II",
+        "year": 1974,
+        "emojis": [
+            "🎩",
+            "🗽",
+            "🚢",
+            "🔫",
+            "💼"
+        ],
+        "hint": "Past and present intertwine as a family’s power deepens across oceans and time.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "The Third Man",
+        "year": 1949,
+        "emojis": [
+            "🎻",
+            "🚇",
+            "🕵️‍♂️",
+            "🕳️",
+            "🇦🇹"
+        ],
+        "hint": "In postwar shadows, an old friend’s return hides more than it reveals.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Modern Times",
+        "year": 1936,
+        "emojis": [
+            "⚙️",
+            "🤖",
+            "🏭",
+            "🤡",
+            "🍞"
+        ],
+        "hint": "A small man battles the big machine in a world turning too fast.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "The Apartment",
+        "year": 1960,
+        "emojis": [
+            "🏢",
+            "🗝️",
+            "❤️",
+            "🍸",
+            "💼"
+        ],
+        "hint": "In the city’s tall towers, love blooms between missed chances and closed doors.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": 1964,
+        "emojis": [
+            "💣",
+            "✈️",
+            "🛠️",
+            "😜",
+            "🌍"
+        ],
+        "hint": "Madness in the war room dances on the brink of global ruin.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Double Indemnity",
+        "year": 1944,
+        "emojis": [
+            "💍",
+            "💔",
+            "🚗",
+            "🔫",
+            "📜"
+        ],
+        "hint": "Greed and desire drive a plot where love signs its own death warrant.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": 1962,
+        "emojis": [
+            "🏜️",
+            "🐪",
+            "⚔️",
+            "☀️",
+            "🏴‍☠️"
+        ],
+        "hint": "A lone man crosses vast sands, uniting tribes beneath a blazing sun.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Battleship Potemkin",
+        "year": 1925,
+        "emojis": [
+            "🚢",
+            "⚓",
+            "⚔️",
+            "🚼",
+            "🇷🇺"
+        ],
+        "hint": "A crew’s rebellion shakes a nation as tragedy strikes upon the steps.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "Sunset Boulevard",
+        "year": 1950,
+        "emojis": [
+            "🎥",
+            "🌅",
+            "🏠",
+            "🎭",
+            "💀"
+        ],
+        "hint": "A faded star clings to the spotlight, weaving a deadly Hollywood dream.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "All About Eve",
+        "year": 1950,
+        "emojis": [
+            "🎭",
+            "👠",
+            "📜",
+            "💔",
+            "🎟️"
+        ],
+        "hint": "Ambition takes the stage as admiration twists into rivalry under the lights.",
+        "used": false,
+        "dateAssigned": null
+    },
+    {
+        "title": "M",
+        "year": 1931,
+        "emojis": [
+            "👤",
+            "🧒",
+            "🕵️‍♂️",
+            "🚨",
+            "🌃"
+        ],
+        "hint": "A city hunts a shadowy figure preying on its most innocent souls.",
+        "used": false,
+        "dateAssigned": null
+    }
+]
